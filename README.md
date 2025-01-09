@@ -3,6 +3,11 @@
 YelpCamp is a full-stack web application built with Node.js, Express, MongoDB, and various other technologies. It allows users to create, rate, and review campgrounds. The project is based on Colt Steele's [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on Udemy.
 The application is hosted by OnRender, and may take a minute to spin up the cluster if you are the first visitor in a bit.
 
+**Note that this is a pretty old project at this point. It's built up a few bugs throughout its update lifecycle**
+
+## Known Bugs:
+= Not properly displaying campground images.
+
 ## Visit
 https://yelpcampavina.onrender.com/
 
