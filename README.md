@@ -6,7 +6,7 @@ The application is hosted by OnRender, and may take a minute to spin up the clus
 **Note that this is a pretty old project at this point. It's built up a few bugs throughout its update lifecycle**
 
 ## Known Bugs:
-= Not properly displaying campground images.
+- Not properly displaying campground images.
 
 ## Visit
 https://yelpcampavina.onrender.com/
